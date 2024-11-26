@@ -14,3 +14,7 @@ Filter Controls: Use the built-in filters and slicers to view data based on spec
 
 ## Requirements: 
 Power BI Desktop Version: [Specify version, if necessary] Data Access: [Describe data source requirements]
+
+## output
+
+![iamge alt](https://github.com/Shruu-benagi-15/madhav-store-dashboard-using-power-bi/blob/396f9f418c54ba9343d7aefe15b36e150ad33cf0/Screenshot%20(33).png)
